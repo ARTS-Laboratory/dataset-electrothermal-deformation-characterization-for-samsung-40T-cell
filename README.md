@@ -27,7 +27,7 @@ Cite this as:
 }
 
 <p align="center">
-<img src="media/QR-code.png" alt="drawing" width="200"/>
+<img src="media/QR-for-ARTS-Laboratory.png" alt="drawing" width="200"/>
 </p>
 <p align="center">
 QR code for repo.
