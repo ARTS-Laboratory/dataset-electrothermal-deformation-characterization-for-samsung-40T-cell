@@ -1,11 +1,33 @@
 # Data
-Dataset for the Samsung 40T battery for electro thermal and deformation characterization
+Repo containing the datasets for the Samsung 40T battery for electro-thermal, mechanical, and deformation characterization. 
 
-Forced convection - liquid cooled.
+<!-- Forced convection - liquid cooled.
 
-electro-thermal-mechanical
+electro-thermal-mechanical -->
 
-
+## Test Types
+- **HPPC**:
+    - Hybrid Pulse Power Characterization Test
+      - Current pulses are applied to the battery to test its response
+        - Current is constant 
+        - C-Rate is recorded in the file name 
+- **multi_cycle**:
+  - Constant Current Test
+    - Battery is charged and then discharged over a certain number of cycles
+      - Current is constant 
+      - C-rate is recorded in the file name
+      - **Data needs to be added (remove when added)**
+- **single_cycle**:
+  - Constant Current Test
+    - All tests have C-rates in file name
+    - Datasets will have:
+      - Discharge cycle:
+        - Starts at 100% SoC and then discharges to 0% SoC
+      - Charge cycle:
+        - Starts at 0% SoC and then charges to 100% SoC
+      - Wait cycle
+        - Holds the battery in a steady state  
+    
 
 
 ## Licensing and Citation
