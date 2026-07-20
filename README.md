@@ -20,12 +20,16 @@ Repo containing the datasets for the Samsung 40T battery for electro-thermal, me
     - Electro-thermal-mechanical 
     - Test-setup:
     <!-- Image is 6.5 in wide -->
-      ![LCIC test-setup](media\LCIC_test_setup.png "LCIC liquid cooled test setup"){: width="70"%} 
+      <p align="center">
+      <img src="media/LCIC_test_setup.png" title="LCIC Test setup used to collect data" alt="LCIC Test-setup" width="500"/>
+      </p>
 
 2) **Placeholder**: 
     - Test-setup:
     <!-- Image is 6.5 in wide -->
-      ![Placeholder test-setup](media\Placeholder_test_setup.jpg "test setup") 
+      <p align="center">
+      <img src="media/Placeholder_test_setup.png" title="LCIC Test setup used to collect data" alt="LCIC Test-setup" width="500"/>
+      </p>
 
 ## Licensing and Citation
 
@@ -46,7 +50,7 @@ Cite this as:
 }
 
 <p align="center">
-<img src="media/QR-for-ARTS-Laboratory.png" alt="drawing" width="200"/>
+<img src="media/QR-for-ARTS-Laboratory.png" alt="QR Code" width="200"/>
 </p>
 <p align="center">
 QR code for repo.
