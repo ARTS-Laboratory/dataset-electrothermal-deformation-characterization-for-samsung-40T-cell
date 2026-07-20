@@ -1,12 +1,31 @@
-# Dataset electrothermal deformation characterization for Samsung-40T cell
-Dataset for the Samsung 40T battery for electro thermal and deformation characterization
+# Dataset-electro-thermal-mechanical-characterization-for-Samsung-40T
+Repo containing the datasets for the Samsung 40T battery for electro-thermal, mechanical, and deformation characterization 
 
-Forced convection - liquid cooled.
+## Key Features of Samsung 40T cell
+- **Capacity**: 4,00mAh
+- **Nominal Voltage**: 3.6V
+- **Max Continuous Discharge Current**: 35A
+- **Cell dimensions**:
+  - **Height**: 70.30mm
+  - **Diameter**: 21.22mm
+  - **Surface Area**: 14.145cm^2 
 
-electro-thermal-mechanical
 
+## Test Setups
+- Different datasets may use different test setups 
+- As of now there are 2 separate test setups that were used to collect data
+1) **Liquid Cooled Insulated Cell (LCIC) Test-setup**: 
+    - The test-setup is forced convection 
+      - Liquid cooled
+    - Electro-thermal-mechanical 
+    - Test-setup:
+    <!-- Image is 6.5 in wide -->
+      ![LCIC test-setup](media\LCIC_test_setup.png "LCIC liquid cooled test setup"){: width="70"%} 
 
-
+2) **Placeholder**: 
+    - Test-setup:
+    <!-- Image is 6.5 in wide -->
+      ![Placeholder test-setup](media\Placeholder_test_setup.jpg "test setup") 
 
 ## Licensing and Citation
 
