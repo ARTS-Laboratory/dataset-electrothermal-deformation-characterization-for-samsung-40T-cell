@@ -10,6 +10,13 @@ Repo containing the datasets for the Samsung 40T battery for electro-thermal, me
   - **Diameter**: 21.22mm
   - **Surface Area**: 14.145cm^2 
 
+## Test Types 
+- Hybrid Pulse Power Characterization Tests (HPPC)
+  - Current pulses are applied to the battery to test its response
+- Multiple Cycles Tests
+  - Batteries are cycled multiple times per test
+- Single Cycle Tests
+  - Batteries are only cycled once per test
 
 ## Test Setups
 - Different datasets may use different test setups 
