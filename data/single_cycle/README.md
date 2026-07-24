@@ -6,11 +6,11 @@
 
 ## Datasets
 ### Dataset 1
-- All test runs have these tests:
+- All test runs have these phases:
     - Charge 
     - Discharge
     - Wait
-- C-Rate varies from test to test
+- C-Rate varies from cycle to cycle
 - Batteries were cooled by a thermal liquid cooling loop
 - Data was collected on LCIC test-setup:
 
